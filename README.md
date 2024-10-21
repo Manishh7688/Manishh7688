@@ -3,7 +3,7 @@
 A passionate Mern Stack developer from India
 
 - 🔭 I’m currently working on **FINEOUTPUT**
-- 👨‍💻 All of my projects are available at [@manishh7688]([https://github.com/rajendra0968jangid](https://github.com/manishh7688))
+- 👨‍💻 All of my projects are available at [@manishh7688](https://github.com/manishh7688)
 - 💬 Ask me about **react** and **node**
 
 ### Connect with me:
