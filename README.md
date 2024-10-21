@@ -1,9 +1,9 @@
-# Hi 👋, I'm Rajendra jangid
+# Hi 👋, I'm Manish Saini
 
 A passionate Mern Stack developer from India
 
-- 🔭 I’m currently working on **Fantasy**
-- 👨‍💻 All of my projects are available at [@rajendra0968jangid](https://github.com/rajendra0968jangid)
+- 🔭 I’m currently working on **FINEOUTPUT**
+- 👨‍💻 All of my projects are available at [@manishh7688]([https://github.com/rajendra0968jangid](https://github.com/manishh7688))
 - 💬 Ask me about **react** and **node**
 
 ### Connect with me:
