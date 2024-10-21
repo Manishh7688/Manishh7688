@@ -7,13 +7,11 @@ A passionate Mern Stack developer from India
 - 💬 Ask me about **react** and **node**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username/)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/manish-saini-b79b53282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ### Languages and Tools:
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
