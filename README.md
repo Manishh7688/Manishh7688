@@ -7,7 +7,7 @@ A passionate Mern Stack developer from India
 - 💬 Ask me about **react** and **node**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manish-saini-b79b53282e/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manish-saini-b79b53282e/)
 
 ### Languages and Tools:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
